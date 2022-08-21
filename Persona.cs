@@ -7,7 +7,7 @@ namespace
 {
     public class Persona
     {
-        string name {get; set}
+        string name {get ; set}
 
     }
 }
